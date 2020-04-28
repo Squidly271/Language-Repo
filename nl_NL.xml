@@ -7,10 +7,7 @@
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/nl_NL.xml</TemplateURL>
   <Version>2020.04.28</Version>
   <Icon>https://github.com/Squidly271/Language-Repo/raw/master/toppng.com-dutch-flag-600x600.png</Icon>
-  <Description>
-    Dit is een complete Nederlandse vertaling voor unRAID en ondersteunde plug-ins
-
-    This is a complete Dutch Translation for unRAID and supported plugins
-  </Description>
+  <Description>Dit is een complete Nederlandse vertaling voor unRAID en ondersteunde plug-ins</Description>
+	<DescriptionEN>This is a complete Dutch Translation for unRAID and supported plugins</DescriptionEN>
   <Changes>Optional Changelog in markdown</Changes>
  </Containers>
