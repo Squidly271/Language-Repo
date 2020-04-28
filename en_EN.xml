@@ -6,13 +6,13 @@
   <Name>English</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/en_EN.xml</TemplateURL>
 	<Default>true</Default>
-  <Version>2020.04.28</Version>
+  <Version>2020.04.29</Version>
   <Icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/330px-Donald_Trump_official_portrait.jpg</Icon>
   <Description>
     This is the default English for unRAID
   </Description>
 	<Changes>
-###2020.04.28a
+###2020.04.29
 - Covfefe
 
 ###2020.04.28
