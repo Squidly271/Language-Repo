@@ -1,0 +1,14 @@
+<Containers>
+  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/en_EN.lang.zip</LanguageURL>
+  <Language>English</Language>
+  <LanguageLocal>English</LanguageLocal>
+  <Author>Bergware</Author>
+  <Name>English</Name>
+  <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/en_EN.xml</TemplateURL>
+	<Default>true</Default>
+  <Version>2020.04.28</Version>
+  <Icon>https://github.com/Squidly271/Language-Repo/raw/master/Canada-Flag-Free-Download-PNG.png</Icon>
+  <Description>
+    This is the default English for unRAID
+  </Description>
+ </Containers>
