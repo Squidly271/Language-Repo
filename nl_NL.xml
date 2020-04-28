@@ -1,0 +1,15 @@
+<Containers>
+  <LanguageURL>URL to zip file</LanguageURL>
+  <Language>nl_NL</Language>
+  <Author>Bergware</Author>
+  <Name>Nederlandse vertaling</Name>
+  <TemplateURL>URL pointing back to this file-used for updates</TemplateURL>
+  <Version>2020.04.28</Version>
+  <Icon>Some icon URL</Icon>
+  <Description>
+    Dit is een complete Nederlandse vertaling voor unRAID en ondersteunde plug-ins
+
+    This is a complete Dutch Translation for unRAID and supported plugins
+  </Description>
+  <Changes>Optional Changelog in markdown</Changes>
+ </Containers>
