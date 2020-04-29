@@ -1,4 +1,4 @@
-<Containers>
+<Language>
   <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/nl_NL.lang.zip</LanguageURL>
   <Language>Dutch</Language>
   <LanguageLocal>Nederlands</LanguageLocal>
@@ -13,4 +13,4 @@
     This is a complete Dutch Translation for unRAID and supported plugins
   </Description>
   <Changes>Optional Changelog in markdown</Changes>
- </Containers>
+ </Language>
