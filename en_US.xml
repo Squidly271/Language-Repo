@@ -1,11 +1,10 @@
 <Language>
-  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/en_US.lang.zip</LanguageURL>
+	<LanguageDefault>true</LanguageDefault>
   <Language>English</Language>
   <LanguageLocal>US</LanguageLocal>
   <Author>Limetech</Author>
   <Name>English</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/en_US.xml</TemplateURL>
-	<Default>true</Default>
   <Version>2020.04.29</Version>
   <Icon>https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_the_United_Nations.png</Icon>
   <Description>
