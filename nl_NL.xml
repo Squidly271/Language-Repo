@@ -12,5 +12,8 @@ Dit is een complete Nederlandse vertaling voor Unraid en ondersteunde plug-ins
 
 This is a complete Dutch Translation for Unraid and supported plugins
   </Description>
-  <Changes>Optional Changelog in markdown</Changes>
+  <Changes>
+###2020.04.28
+- Initial Release
+  </Changes>
  </Language>
