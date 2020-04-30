@@ -1,0 +1,19 @@
+<Language>
+  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/nl_NL.lang.zip</LanguageURL>
+  <Language>Chinese</Language>
+  <LanguageLocal>中文</LanguageLocal>
+  <Author>Bergware</Author>
+  <Name>中文翻译</Name>
+  <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/cn_CN.xml</TemplateURL>
+  <Version>2020.04.31</Version>
+  <Icon>https://github.com/Squidly271/Language-Repo/raw/master/Green-Earth-Transparent-File.png</Icon>
+  <Description>
+这是Unraid和受支持插件的完整中文翻译
+
+This is a complete Chinese Translation for Unraid and supported plugins
+  </Description>
+  <Changes>
+###2020.04.28
+- Initial Release
+  </Changes>
+ </Language>
