@@ -2,6 +2,7 @@
   <LanguageDefault>true</LanguageDefault>
   <Language>English</Language>
   <LanguageLocal></LanguageLocal>
+	<LanguagePack>en_US</LangageLocal>
   <Author>Limetech</Author>
   <Name>English</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/en_US.xml</TemplateURL>
