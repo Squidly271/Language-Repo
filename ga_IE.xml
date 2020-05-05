@@ -1,20 +1,20 @@
 <Language>
-  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/lang-ga_IE.zip</LanguageURL>
-  <Language>Pig Latin</Language>
-  <LanguageLocal>igpay atinlay</LanguageLocal>
+	<LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/lang-ga_IE.zip</LanguageURL>
+	<Language>Pig Latin</Language>
+	<LanguageLocal>igpay atinlay</LanguageLocal>
 	<LanguagePack>ga_IE</LanguagePack>
-  <Author>Squid</Author>
-  <Name>igpay atinlay anslationtray</Name>
-  <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/ga_IE.xml</TemplateURL>
-  <Version>2020.05.04</Version>
-  <Icon>https://github.com/Squidly271/Language-Repo/raw/master/Green-Earth-Transparent-File.png</Icon>
-  <Description>
+	<Author>Squid</Author>
+	<Name>igpay atinlay anslationtray</Name>
+	<TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/ga_IE.xml</TemplateURL>
+	<Version>2020.05.04</Version>
+	<Icon>https://github.com/Squidly271/Language-Repo/raw/master/Green-Earth-Transparent-File.png</Icon>
+	<Description>
 Isthay isway away artialpay anslationtray ofway ACAY otay igpay atinlay orfay estingtay
 
 This is a partial translation of CA to pig latin for testing
-  </Description>
-  <Changes>
+	</Description>
+	<Changes>
 ###2020.05.04
 - Initial Release
-  </Changes>
+	</Changes>
  </Language>
