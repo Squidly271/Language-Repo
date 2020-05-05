@@ -1,7 +1,8 @@
 <Language>
-  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/zh_CN.lang.zip</LanguageURL>
+  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/lang-zh_CN.zip</LanguageURL>
   <Language>Chinese</Language>
   <LanguageLocal>中文</LanguageLocal>
+	<LanguagePack>zh_CN</LanguagePack>
   <Author>Bergware</Author>
   <Name>中文翻译</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/zh_CN.xml</TemplateURL>

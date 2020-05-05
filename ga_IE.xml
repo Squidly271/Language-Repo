@@ -1,7 +1,8 @@
 <Language>
-  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/ga_IE.lang.zip</LanguageURL>
+  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/lang-ga_IE.zip</LanguageURL>
   <Language>Pig Latin</Language>
   <LanguageLocal>igpay atinlay</LanguageLocal>
+	<LanguagePack>ga_IE</LanguagePack>
   <Author>Squid</Author>
   <Name>igpay atinlay anslationtray</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/ga_IE.xml</TemplateURL>

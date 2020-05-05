@@ -1,7 +1,8 @@
 <Language>
-  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/nl_NL.lang.zip</LanguageURL>
+  <LanguageURL>https://github.com/Squidly271/Language-Repo/raw/master/lang-nl_NL.zip</LanguageURL>
   <Language>Dutch</Language>
   <LanguageLocal>Nederlands</LanguageLocal>
+	<LanguagePack>nl_NL</LanguagePack>
   <Author>Bergware</Author>
   <Name>Nederlandse vertaling</Name>
   <TemplateURL>https://github.com/Squidly271/Language-Repo/raw/master/nl_NL.xml</TemplateURL>
